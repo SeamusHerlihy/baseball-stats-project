@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 3. Place Your CSV File
 
-Ensure the CSV file (e.g., baseball_stats.csv) is in the data/ folder. Replace the sample file with your own if needed.
+Ensure the CSV file (e.g., baseball_stats.csv) is in the data/ folder.
 
 Usage:
 
@@ -84,12 +84,8 @@ Create a graphical user interface (GUI).
 
 Add export functionality to save filtered data to a new CSV file.
 
-License:
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 Acknowledgments:
 
 pandas Documentation
 
-Baseball Reference for potential data sources.
+Baseball Reference for data sources.
